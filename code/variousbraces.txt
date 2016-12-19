@@ -1,0 +1,11 @@
+int test{
+    int a()
+        test;
+    }
+}
+
+int test2{
+    int a(){
+        test;
+
+}
