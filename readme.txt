@@ -33,10 +33,11 @@ Functions:
 Uncompleted Functions:
 	- code cannot insert missing left parenthesis
 
-ToDo´s:
+
+ToDoÂ´s:
 	- pretty print function
 	- output text function
 	
-
+###Deleted the introduction.pdf. 
 			
 	
